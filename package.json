@@ -6,7 +6,7 @@
 	"license": "gpl-3.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/chartigo/directus-extension-time-zones-interface.git"
+		"url": "git+https://github.com/chartigo/directus-extension-time-zones-interface.git"
 	},
 	"keywords": [
 		"directus",
