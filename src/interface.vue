@@ -22,7 +22,7 @@ export default defineComponent({
     },
   },
   emits: ["input"],
-  setup(props, { emit }) {
+  setup(_props, { emit }) {
     const time_zones = ref([
       "Africa/Abidjan",
       "Africa/Accra",
