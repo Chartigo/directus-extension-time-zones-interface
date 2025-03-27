@@ -22,3 +22,13 @@ and restart directus.
 
 ## Disclaimer
 This is our first Directus extensions. PR's are welcome!
+
+## Changelog
+
+### v1.0.2
+
+- Updated README
+
+### v1.0.1
+
+- Initial release
